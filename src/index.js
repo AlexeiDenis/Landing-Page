@@ -8,7 +8,7 @@ e.addEventListener('click',()=>{
     img.animate(
         [
             // keyframes
-            { opacity: "0.5" },
+            { opacity: "0" },
             { opacity: "1" }
         ],
         {
